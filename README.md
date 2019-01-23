@@ -39,6 +39,7 @@
 ## Reinforcement Learning
 
 #### Session 1
+
 >__Problem Dependent Reinforcement Learning Bounds Which Can Identify Bandit Structure in MDPs__ (*[Video](https://youtu.be/SfdGU8HpMcc?t=195)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2550)*) (*[Website](http://proceedings.mlr.press/v80/zanette18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/zanette18a/zanette18a.pdf)*)
 
 
@@ -53,15 +54,49 @@
 
 >__More Robust Doubly Robust Off-policy Evaluation__ (*[Video](https://youtu.be/SfdGU8HpMcc?t=3165)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2554)*) (*[Website](http://proceedings.mlr.press/v80/farajtabar18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/farajtabar18a/farajtabar18a.pdf)*)
 
+#### Session 2
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Slides]()*) (*[Website]()*)
-
-
->__ __ (*[Video]()*) (*[Talk]()*) (*[Slides]()*) (*[Website]()*)
-
->__ __ (*[Video]()*) (*[Talk]()*) (*[Slides]()*) (*[Website]()*)
+>__Coordinated Exploration in Concurrent Reinforcement Learning__ (*[Video](https://youtu.be/8rTLD_MQyog?t=288)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2604)*) (*[Website](http://proceedings.mlr.press/v80/dimakopoulou18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/dimakopoulou18a/dimakopoulou18a.pdf)*)
 
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Slides]()*) (*[Website]()*)
+>__Structured Evolution with Compact Architectures for Scalable Policy Optimization__ (*[Video](https://youtu.be/8rTLD_MQyog?t=1492)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2605)*) (*[Website](http://proceedings.mlr.press/v80/choromanski18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/choromanski18a/choromanski18a.pdf)*)
+
+
+>__Spotlight: Optimizing Device Placement for Training Deep Neural Networks__ (*[Video](https://youtu.be/8rTLD_MQyog?t=2019)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2606)*) (*[Website](http://proceedings.mlr.press/v80/gao18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/gao18a/gao18a.pdf)*)
+
+
+>__Gated Path Planning Networks__ (*[Video](https://youtu.be/8rTLD_MQyog?t=2635)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2607)*) (*[Website](http://proceedings.mlr.press/v80/lee18c.html)*) (*[Paper](http://proceedings.mlr.press/v80/lee18c/lee18c.pdf)*)
+
+
+>__Best Arm Identification in Linear Bandits with Linear Dimension Dependency__ (*[Video](https://youtu.be/8rTLD_MQyog?t=3279)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2608)*) (*[Website](http://proceedings.mlr.press/v80/tao18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/tao18a/tao18a.pdf)*)
+
+
+#### Session 3
+
+>__Structured Control Nets for Deep Reinforcement Learning__ (*[Video](https://youtu.be/8rTLD_MQyog?t=3852)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2657)*) (*[Website](http://proceedings.mlr.press/v80/srouji18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/srouji18a/srouji18a.pdf)*)
+
+
+>__Latent Space Policies for Hierarchical Reinforcement Learning__ (*[Video](https://youtu.be/8rTLD_MQyog?t=4966)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2658)*) (*[Website](http://proceedings.mlr.press/v80/haarnoja18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/haarnoja18a/haarnoja18a.pdf)*)
+
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
 
 
