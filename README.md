@@ -25,10 +25,10 @@
 ---
 
 
-## Invited Talk
+## Invited Talks
 
 
->__AI and Security: Lessons, Challenges and Future Directions__ (*[Video](https://youtu.be/dcEo2r7_V44)*) (*[Talk]()*) (*[Slides]()*) (*[Website]()*)
+>__AI and Security: Lessons, Challenges and Future Directions__ (*[Video](https://youtu.be/dcEo2r7_V44)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=1865)*)
 
 
 >__Intelligence per Kilowatthour__ (*[Video-1](https://youtu.be/7QhkvG4MUbk)*) (*[Video-2](https://youtu.be/vzoTh0ZAUAk)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=1866)*) (*[Slides](https://media.nips.cc/Conferences/ICML2018/EventMedia/1866-ICML2018-Welling.pptx)*)
@@ -36,12 +36,28 @@
 
 ---
 
+## Reinforcement Learning
+
+#### Session 1
+>__Problem Dependent Reinforcement Learning Bounds Which Can Identify Bandit Structure in MDPs__ (*[Video](https://youtu.be/SfdGU8HpMcc?t=195)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2550)*) (*[Website](http://proceedings.mlr.press/v80/zanette18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/zanette18a/zanette18a.pdf)*)
+
+
+>__Learning with Abandonment__ (*[Video](https://youtu.be/SfdGU8HpMcc?t=1300)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2551)*) (*[Website](http://proceedings.mlr.press/v80/schmit18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/schmit18a/schmit18a.pdf)*)
+
+
+>__Lipschitz Continuity in Model-based Reinforcement Learning__ (*[Video](https://youtu.be/SfdGU8HpMcc?t=1881)*) (*[Talk]()*) (*[Website](http://proceedings.mlr.press/v80/asadi18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/asadi18a/asadi18a.pdf)*)
+
+
+>__Implicit Quantile Networks for Distributional Reinforcement Learning__ (*[Video](https://youtu.be/SfdGU8HpMcc?t=2505)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2553)*) (*[Website](http://proceedings.mlr.press/v80/dabney18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/dabney18a/dabney18a.pdf)*)
+
+
+>__More Robust Doubly Robust Off-policy Evaluation__ (*[Video](https://youtu.be/SfdGU8HpMcc?t=3165)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2554)*) (*[Website](http://proceedings.mlr.press/v80/farajtabar18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/farajtabar18a/farajtabar18a.pdf)*)
+
 
 >__ __ (*[Video]()*) (*[Talk]()*) (*[Slides]()*) (*[Website]()*)
 
 
 >__ __ (*[Video]()*) (*[Talk]()*) (*[Slides]()*) (*[Website]()*)
-
 
 >__ __ (*[Video]()*) (*[Talk]()*) (*[Slides]()*) (*[Website]()*)
 
