@@ -1,4 +1,4 @@
-# International Conference on Machine Learning
+# 2018 International Conference on Machine Learning
 
 ---
 
@@ -89,6 +89,19 @@
 #### Session 4
 
 
+>__Programmatically Interpretable Reinforcement Learning__ (*[Video](https://youtu.be/ZPnoRe_DXPw?t=255)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2709)*) (*[Website](http://proceedings.mlr.press/v80/verma18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/verma18a/verma18a.pdf)*)
+
+
+>__Learning by Playing - Solving Sparse Reward Tasks from Scratch__ (*[Video](https://youtu.be/ZPnoRe_DXPw?t=1386)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2710)*) (*[Website](http://proceedings.mlr.press/v80/riedmiller18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/riedmiller18a/riedmiller18a.pdf)*)
+
+
+>__Automatic Goal Generation for Reinforcement Learning Agents__ (*[Video](https://youtu.be/ZPnoRe_DXPw?t=2626)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2711)*) (*[Website](http://proceedings.mlr.press/v80/florensa18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/florensa18a/florensa18a.pdf)*)
+
+
+>__Universal Planning Networks: Learning Generalizable Representations for Visuomotor Control__ (*[Video](https://youtu.be/ZPnoRe_DXPw?t=3172)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2712)*) (*[Website](http://proceedings.mlr.press/v80/srinivas18b.html)*) (*[Paper](http://proceedings.mlr.press/v80/srinivas18b/srinivas18b.pdf)*)
+
+#### Session 5
+
 >__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
 
 
@@ -101,3 +114,159 @@
 >__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
 
 
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 6
+
+>__Efficient Bias-Span-Constrained Exploration-Exploitation in Reinforcement Learning__ (*[Video](https://youtu.be/ZPnoRe_DXPw?t=3861)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2760)*) (*[Website](http://proceedings.mlr.press/v80/fruit18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/fruit18a/fruit18a.pdf)*)
+
+
+>__Path Consistency Learning in Tsallis Entropy Regularized MDPs__ (*[Video](https://youtu.be/ZPnoRe_DXPw?t=4994)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2761)*) (*[Website](http://proceedings.mlr.press/v80/chow18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/chow18a/chow18a.pdf)*)
+
+
+>__Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems__ (*[Video](https://youtu.be/ZPnoRe_DXPw?t=6102)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2762)*) (*[Website](http://proceedings.mlr.press/v80/abeille18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/abeille18a/abeille18a.pdf)*)
+
+
+>__Least-Squares Temporal Difference Learning for the Linear Quadratic Regulator__ (*[Video](https://youtu.be/ZPnoRe_DXPw?t=6791)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2763)*) (*[Website](http://proceedings.mlr.press/v80/tu18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/tu18a/tu18a.pdf)*)
+
+#### Session 7
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 8
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 9
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 10
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 11
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 12
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 13
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 14
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 15
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 16
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 17
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+#### Session 18
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+
+>__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
