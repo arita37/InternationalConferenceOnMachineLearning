@@ -143,27 +143,26 @@
 
 #### Session 8
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Convergent Tree Backup and Retrace with Function Approximation__ (*[Video](https://youtu.be/SCKoXka_G3I?t=298)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2815)*) (*[Website](http://proceedings.mlr.press/v80/touati18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/touati18a/touati18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__SBEED: Convergent Reinforcement Learning with Nonlinear Function Approximation__ (*[Video](https://youtu.be/SCKoXka_G3I?t=1524)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2816)*) (*[Website](http://proceedings.mlr.press/v80/dai18c.html)*) (*[Paper](http://proceedings.mlr.press/v80/dai18c/dai18c.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Scalable Bilinear Pi Learning Using State and Action Features__ (*[Video](https://youtu.be/SCKoXka_G3I?t=2810)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2817)*) (*[Website](http://proceedings.mlr.press/v80/chen18e.html)*) (*[Paper](http://proceedings.mlr.press/v80/chen18e/chen18e.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Stochastic Variance-Reduced Policy Gradient__ (*[Video](https://youtu.be/SCKoXka_G3I?t=3414)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2818)*) (*[Website](http://proceedings.mlr.press/v80/papini18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/papini18a/papini18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
 
 #### Session 9
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Investigating Human Priors for Playing Video Games__ (*[Video](https://youtu.be/MK-oAqHjdmg?t=223)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2870)*) (*[Website](http://proceedings.mlr.press/v80/dubey18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/dubey18a/dubey18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Can Deep Reinforcement Learning Solve Erdos-Selfridge-Spencer Games?__ (*[Video](https://youtu.be/MK-oAqHjdmg?t=1490)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2871)*) (*[Website](http://proceedings.mlr.press/v80/raghu18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/raghu18a/raghu18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__GEP-PG: Decoupling Exploration and Exploitation in Deep Reinforcement Learning Algorithms__ (*[Video](https://youtu.be/MK-oAqHjdmg?t=2079)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2872)*) (*[Website](http://proceedings.mlr.press/v80/colas18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/colas18a/colas18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Time Limits in Reinforcement Learning__ (*[Video](https://youtu.be/MK-oAqHjdmg?t=2694)*) (*[Talk]()*) (*[Website](http://proceedings.mlr.press/v80/pardo18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/pardo18a/pardo18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Visualizing and Understanding Atari Agents__ (*[Video](https://youtu.be/MK-oAqHjdmg?t=3377)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2874)*) (*[Website](http://proceedings.mlr.press/v80/greydanus18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/greydanus18a/greydanus18a.pdf)*)
 
 #### Session 10
 
