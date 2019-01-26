@@ -239,15 +239,15 @@
 
 #### Session 16
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator__ (*[Video](https://youtu.be/sgZzfwTTh1M?t=399)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3197)*) (*[Website](http://proceedings.mlr.press/v80/fazel18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Policy Optimization as Wasserstein Gradient Flows__ (*[Video](https://youtu.be/sgZzfwTTh1M?t=1700)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3198)*) (*[Website](http://proceedings.mlr.press/v80/zhang18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/zhang18a/zhang18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Clipped Action Policy Gradient__ (*[Video](https://youtu.be/sgZzfwTTh1M?t=2396)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3199)*) (*[Website](http://proceedings.mlr.press/v80/fujita18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/fujita18a/fujita18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Fourier Policy Gradients__ (*[Video](https://youtu.be/sgZzfwTTh1M?t=2962)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3200)*) (*[Website](http://proceedings.mlr.press/v80/fellows18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/fellows18a/fellows18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Self-Imitation Learning__ (*[Video](https://youtu.be/sgZzfwTTh1M?t=3572)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3201)*) (*[Website](http://proceedings.mlr.press/v80/oh18b.html)*) (*[Paper](http://proceedings.mlr.press/v80/oh18b/oh18b.pdf)*)
 
 #### Session 17
 
