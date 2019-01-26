@@ -187,15 +187,15 @@ https://icml.cc/Conferences/2018/Schedule?showEvent=2926)*) (*[Website](http://p
 
 #### Session 12
 
->__ __ (*[Video](https://youtu.be/x98LGXidIYA?t=4050)*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__An Efficient, Generalized Bellman Update For Cooperative Inverse Reinforcement Learning__ (*[Video](https://youtu.be/x98LGXidIYA?t=4050)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3035)*) (*[Website](http://proceedings.mlr.press/v80/malik18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/malik18a/malik18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Fast Bellman Updates for Robust MDPs__ (*[Video](https://youtu.be/x98LGXidIYA?t=5218)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3036)*) (*[Website](http://proceedings.mlr.press/v80/ho18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/ho18a/ho18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Decoupling Gradient-Like Learning Rules from Representations__ (*[Video](https://youtu.be/x98LGXidIYA?t=5796)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3039)*) (*[Website](http://proceedings.mlr.press/v80/thomas18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/thomas18a/thomas18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__PIPPS: Flexible Model-Based Policy Search Robust to the Curse of Chaos__ (*[Video](https://youtu.be/x98LGXidIYA?t=6352)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3038)*) (*[Website](http://proceedings.mlr.press/v80/parmas18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/parmas18a/parmas18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Discovering and Removing Exogenous State Variables and Rewards for Reinforcement Learning__ (*[Video](https://youtu.be/x98LGXidIYA?t=6923)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3037)*) (*[Website](http://proceedings.mlr.press/v80/dietterich18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/dietterich18a/dietterich18a.pdf)*)
 
 #### Session 13
 
