@@ -73,19 +73,20 @@
 
 #### Session 3
 
+
 >__Structured Control Nets for Deep Reinforcement Learning__ (*[Video](https://youtu.be/8rTLD_MQyog?t=3852)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2657)*) (*[Website](http://proceedings.mlr.press/v80/srouji18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/srouji18a/srouji18a.pdf)*)
 
 
 >__Latent Space Policies for Hierarchical Reinforcement Learning__ (*[Video](https://youtu.be/8rTLD_MQyog?t=4966)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2658)*) (*[Website](http://proceedings.mlr.press/v80/haarnoja18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/haarnoja18a/haarnoja18a.pdf)*)
 
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings__ (*[Video](https://youtu.be/8rTLD_MQyog?t=6118)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2659)*) (*[Website](http://proceedings.mlr.press/v80/co-reyes18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/co-reyes18a/co-reyes18a.pdf)*)
 
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__An Inference-Based Policy Gradient Method for Learning Options__ (*[Video](https://youtu.be/8rTLD_MQyog?t=6756)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2660)*) (*[Website](http://proceedings.mlr.press/v80/smith18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/smith18a/smith18a.pdf)*)
 
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+#### Session 4
 
 
 >__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
