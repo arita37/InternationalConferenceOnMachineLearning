@@ -177,19 +177,17 @@ https://icml.cc/Conferences/2018/Schedule?showEvent=2926)*) (*[Website](http://p
 
 #### Session 11
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Configurable Markov Decision Processes__ (*[Video](https://youtu.be/x98LGXidIYA?t=429)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2979)*) (*[Website](http://proceedings.mlr.press/v80/metelli18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/metelli18a/metelli18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Beyond the One-Step Greedy Approach in Reinforcement Learning__ (*[Video](https://youtu.be/x98LGXidIYA?t=1554)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2980)*) (*[Website](http://proceedings.mlr.press/v80/efroni18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/efroni18a/efroni18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Policy and Value Transfer in Lifelong Reinforcement Learning__ (*[Video](https://youtu.be/x98LGXidIYA?t=2764)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2981)*) (*[Website](http://proceedings.mlr.press/v80/abel18b.html)*) (*[Paper](http://proceedings.mlr.press/v80/abel18b/abel18b.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
-
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Importance Weighted Transfer of Samples in Reinforcement Learning__ (*[Video](https://youtu.be/x98LGXidIYA?t=3327)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2982)*) (*[Website](http://proceedings.mlr.press/v80/tirinzoni18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/tirinzoni18a/tirinzoni18a.pdf)*)
 
 #### Session 12
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__ __ (*[Video](https://youtu.be/x98LGXidIYA?t=4050)*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
 
 >__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
 
