@@ -215,15 +215,14 @@
 
 #### Session 14
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__RLlib: Abstractions for Distributed Reinforcement Learning__ (*[Video](https://youtu.be/CBPyLvc6VMI?t=360)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3092)*) (*[Website](http://proceedings.mlr.press/v80/liang18b.html)*) (*[Paper](http://proceedings.mlr.press/v80/liang18b/liang18b.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures__ (*[Video](https://youtu.be/CBPyLvc6VMI?t=1415)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3093)*) (*[Website](http://proceedings.mlr.press/v80/espeholt18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/espeholt18a/espeholt18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Mix & Match - Agent Curricula for Reinforcement Learning__ (*[Video](https://youtu.be/CBPyLvc6VMI?t=2228)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3094)*) (*[Website](http://proceedings.mlr.press/v80/czarnecki18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/czarnecki18a/czarnecki18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Learning to Explore via Meta-Policy Gradient__ (*[Video](https://youtu.be/CBPyLvc6VMI?t=2958)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3095)*) (*[Website](http://proceedings.mlr.press/v80/xu18d.html)*) (*[Paper](http://proceedings.mlr.press/v80/xu18d/xu18d.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
 
 #### Session 15
 
