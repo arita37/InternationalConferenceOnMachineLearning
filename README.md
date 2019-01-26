@@ -166,15 +166,14 @@
 
 #### Session 10
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__The Mirage of Action-Dependent Baselines in Reinforcement Learning__ (*[Video](https://youtu.be/MK-oAqHjdmg?t=4084)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2925)*) (*[Website](http://proceedings.mlr.press/v80/tucker18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/tucker18a/tucker18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Smoothed Action Value Functions for Learning Gaussian Policies__ (*[Video](https://youtu.be/MK-oAqHjdmg?t=5325)*) (*[Talk](
+https://icml.cc/Conferences/2018/Schedule?showEvent=2926)*) (*[Website](http://proceedings.mlr.press/v80/nachum18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/nachum18a/nachum18a.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor__ (*[Video](https://youtu.be/MK-oAqHjdmg?t=6480)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2927)*) (*[Website](http://proceedings.mlr.press/v80/haarnoja18b.html)*) (*[Paper](http://proceedings.mlr.press/v80/haarnoja18b/haarnoja18b.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
-
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Addressing Function Approximation Error in Actor-Critic Methods__ (*[Video](https://youtu.be/MK-oAqHjdmg?t=7102)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=2928)*) (*[Website](http://proceedings.mlr.press/v80/fujimoto18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/fujimoto18a/fujimoto18a.pdf)*)
 
 #### Session 11
 
