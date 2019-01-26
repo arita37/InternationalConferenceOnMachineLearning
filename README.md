@@ -251,15 +251,13 @@
 
 #### Session 17
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Mean Field Multi-Agent Reinforcement Learning__ (*[Video](https://youtu.be/sgZzfwTTh1M?t=4208)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3254)*) (*[Website](http://proceedings.mlr.press/v80/yang18d.html)*) (*[Paper](http://proceedings.mlr.press/v80/yang18d/yang18d.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Reinforcement Learning with Function-Valued Action Spaces for Partial Differential Equation Control__ (*[Video](https://youtu.be/sgZzfwTTh1M?t=5521)*) (*[Talk]()*) (*[Website](http://proceedings.mlr.press/v80/pan18a.html)*) (*[Paper]()*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents__ (*[Video](https://youtu.be/sgZzfwTTh1M?t=6528)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3256)*) (*[Website](http://proceedings.mlr.press/v80/zhang18n.html)*) (*[Paper](http://proceedings.mlr.press/v80/zhang18n/zhang18n.pdf)*)
 
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
-
->__ __ (*[Video]()*) (*[Talk]()*) (*[Website]()*) (*[Paper]()*)
+>__The Uncertainty Bellman Equation and Exploration__ (*[Video](https://youtu.be/sgZzfwTTh1M?t=7217)*) (*[Talk](https://icml.cc/Conferences/2018/Schedule?showEvent=3257)*) (*[Website](http://proceedings.mlr.press/v80/odonoghue18a.html)*) (*[Paper](http://proceedings.mlr.press/v80/odonoghue18a/odonoghue18a.pdf)*)
 
 #### Session 18
 
